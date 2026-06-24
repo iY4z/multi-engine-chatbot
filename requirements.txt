@@ -1,0 +1,5 @@
+streamlit
+pillow
+gTTS
+langchain-openai
+langchain-groq
